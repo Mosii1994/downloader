@@ -1,5 +1,6 @@
 # Downloaded list :
 
+- [Nova.App.V1](./Nova.App.V1)
 - [melishekan-nv_01](./melishekan-nv_01)
 - [mhrv-rs-android-universal-v1.9.18](./mhrv-rs-android-universal-v1.9.18)
 - [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
